@@ -3,3 +3,4 @@ printf ("Hi to you all!")
 for (i=1;i<5;i++)
 while i=5 print "Hello"
 print "Hello my dear friend!"
+print ("Why so serious?")
